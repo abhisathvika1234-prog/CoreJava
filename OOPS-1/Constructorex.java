@@ -4,7 +4,6 @@ public class Constructorex
     Constructorex(int a)
     {
         this.a=a;
- 
         System.out.println("constructor is called");
     
     }
