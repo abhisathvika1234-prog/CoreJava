@@ -13,7 +13,6 @@ public class ColSum2D {
             colsum+=matrix[i][j];
              
 
-           
 
             } 
             System.out.println(colsum);         
